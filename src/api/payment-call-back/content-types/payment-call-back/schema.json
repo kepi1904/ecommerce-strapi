@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "payment_call_backs",
+  "info": {
+    "singularName": "payment-call-back",
+    "pluralName": "payment-call-backs",
+    "displayName": "PaymentCallBack",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "history": {
+      "type": "json"
+    }
+  }
+}
